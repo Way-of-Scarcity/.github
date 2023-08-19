@@ -11,3 +11,6 @@ The [original papers](https://www.scribd.com/lists/3385409/The-Scarcity-Hypothes
 
 A detailed conversation of what the idea entails was documented in a dialogue with an AI model trained on the papers.  
 [http://todoai.org](http://todoai.org)
+
+The live chat agent is available at:
+[http://todoai.co](http://todoai.co)
